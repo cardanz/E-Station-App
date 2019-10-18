@@ -1,18 +1,17 @@
+
+# E-station : Progetto e Sviluppo di un' applicazione Android a supporto della mobilità elettrica
+
 Specifiche per il progetto di Laboratorio di
 Progettazione ed Analisi di Algoritmi
 
 a.a.2018/2019
-
-E-station : Progetto e Sviluppo di un' applicazione Android a
-
-supporto della mobilità elettrica
 
 - l’applicazione E-station ha l’obiettivo di fornire un supporto agli utenti che
 possiedono o sfruttano mezzi elettrici per la propria mobilità personale . in
 particolar modo tramite l’applicazione facilitiamo la ricerca dei punti di ricarica
 segnalati sul territorio dalla community degli utenti registrati .
 
-Specifiche
+## Specifiche
 - lo sviluppo dell’applicazione ha richiesto un approfondimento specifico delle
 seguenti piattaforme di supporto:
 1) API per l’accesso a Google maps
@@ -54,7 +53,7 @@ visualizzata quella presente nel profilo di google , altrimenti viene visualizza
 un’immagine di default . in entrambi i casi è comunque possibile impostare
 un’immagine a propria scelta fra quelle disponibili nel proprio dispositivo.
 
-Interazione con l’utente
+## Interazione con l’utente
 
 Al primo avvio tramite l’activity relativa al tutorial mostriamo il funzionamento della
 nostra applicazione .
